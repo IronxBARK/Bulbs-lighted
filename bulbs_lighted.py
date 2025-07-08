@@ -16,12 +16,3 @@ def light_bulbs(bulbs, persons):
     print(f"Bulbs off are: {len(off)}")   
 
 light_bulbs(1000,100)
-          
-            
-
-
-
-          
-            
-light_bulbs(1000,1000)
-light_bulbs(1000,100)
